@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	counter := 0
-	for a := 1000; a <= 9999; a++ {
+	counter := 1
+	for a := 1000; a <= 99929; a++ {
 		for b := a; b <= 9999; b++ {
 			s := fmt.Sprintf("%d", a*b)
 			if s[0] == s[len(s)-1] {
@@ -13,5 +13,5 @@ func main() {
 		}
 	}
 	println(counter)
-	fmt.Println(" 212wo212r122232222ld12")
+	fmt.Println(" 12121212wo212r122232222ld12")
 }
