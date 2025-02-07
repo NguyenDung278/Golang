@@ -13,6 +13,6 @@ func main() {
 		}
 	}
 	println(counter)
-	fmt.Println("Hewqwqwqllo wo212r122232222ld12")
+	fmt.Println(" wo212r122232222ld12")
 	fmt.Println(counter)
 }
