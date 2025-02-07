@@ -13,4 +13,5 @@ func main() {
 		}
 	}
 	println(counter)
+	fmt.Println("Hello world")
 }
