@@ -14,4 +14,5 @@ func main() {
 	}
 	println(counter)
 	fmt.Println(" 12121212wo212r122232222ld12")
+	fmt.Println(" 212w121o212r12122232222ld12")
 }
