@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	counter := 1
+	counter := 0
 	for a := 1000; a <= 9999; a++ {
 		for b := a; b <= 9999; b++ {
 			s := fmt.Sprintf("%d", a*b)
@@ -13,6 +13,5 @@ func main() {
 		}
 	}
 	println(counter)
-	fmt.Println(" wo212r122232222ld12")
-	fmt.Println(counter)
+	fmt.Println(" 212wo212r122232222ld12")
 }
